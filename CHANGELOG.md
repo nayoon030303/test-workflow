@@ -1,3 +1,10 @@
+## [1.2.5](https://github.com/nayoon030303/test-workflow/compare/v1.2.4...v1.2.5) (2022-08-30)
+
+
+### Bug Fixes
+
+* no squash merge ([6adbc15](https://github.com/nayoon030303/test-workflow/commit/6adbc15dd92db3fa1bd8e28011085f66a485be57))
+
 ## [1.2.4](https://github.com/nayoon030303/test-workflow/compare/v1.2.3...v1.2.4) (2022-08-30)
 
 
