@@ -34,7 +34,7 @@ jobs:
         cache-name: cache-node-modules
       with:
         path: ${{env.CACHED_DEPENDENCY_PATHS}}
-        key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
     - if: steps.cache-npm.outputs.cache-hit != 'true'
       run: npm ci
     - run: npm run build:dev
