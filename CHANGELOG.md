@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/nayoon030303/test-workflow/compare/v1.2.2...v1.2.3) (2022-08-30)
+
+
+### Bug Fixes
+
+* test-workflow ([#14](https://github.com/nayoon030303/test-workflow/issues/14)) ([2a227ba](https://github.com/nayoon030303/test-workflow/commit/2a227ba4260874e208f5130b2bdfb380c6ca43f9))
+
 ## [1.2.2](https://github.com/nayoon030303/test-workflow/compare/v1.2.1...v1.2.2) (2022-08-30)
 
 
