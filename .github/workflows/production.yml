@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - master
-
 env:
   CACHED_DEPENDENCY_PATHS: ${{ github.workspace }}/node_modules
   AWS_EB_S3_BUCKET: elasticbeanstalk-ap-northeast-2-${{ secrets.AWS_ACCOUNT_ID }}
@@ -34,7 +33,7 @@ jobs:
         cache-name: cache-node-modules
       with:
         path: ${{env.CACHED_DEPENDENCY_PATHS}}
-        key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
     - if: steps.cache-npm.outputs.cache-hit != 'true'
       run: npm ci
     - run: npm run build:prod
