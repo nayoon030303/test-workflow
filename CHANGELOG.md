@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/nayoon030303/test-workflow/compare/v1.1.0...v1.1.1) (2022-08-30)
+
+
+### Bug Fixes
+
+* yml files ([#6](https://github.com/nayoon030303/test-workflow/issues/6)) ([d6838c3](https://github.com/nayoon030303/test-workflow/commit/d6838c30acb2219ba228489ad04cb50dd5760d63))
+
 # [1.1.0](https://github.com/nayoon030303/test-workflow/compare/v1.0.1...v1.1.0) (2022-08-30)
 
 
