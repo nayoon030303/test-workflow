@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/nayoon030303/test-workflow/compare/v1.1.1...v1.2.0) (2022-08-30)
+
+
+### Features
+
+* test.txt file ([#4](https://github.com/nayoon030303/test-workflow/issues/4)) ([eb07aa0](https://github.com/nayoon030303/test-workflow/commit/eb07aa0e8062e9e7a5afa57640070c6cf77c5ab2))
+
 ## [1.1.1](https://github.com/nayoon030303/test-workflow/compare/v1.1.0...v1.1.1) (2022-08-30)
 
 
