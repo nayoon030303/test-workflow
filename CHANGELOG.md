@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/nayoon030303/test-workflow/compare/v1.0.0...v1.0.1) (2022-08-30)
+
+
+### Bug Fixes
+
+* prod.yml ([f549136](https://github.com/nayoon030303/test-workflow/commit/f549136c9e74d05d298cf1d8eb28b5e568422d43))
+
 # 1.0.0 (2022-08-30)
 
 
