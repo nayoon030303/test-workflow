@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/nayoon030303/test-workflow/compare/v1.2.3...v1.2.4) (2022-08-30)
+
+
+### Reverts
+
+* Revert "Fix/yml name (#12)" (#13) ([716d825](https://github.com/nayoon030303/test-workflow/commit/716d825570bd2af54f09774b52d670305628a1ae)), closes [#12](https://github.com/nayoon030303/test-workflow/issues/12) [#13](https://github.com/nayoon030303/test-workflow/issues/13)
+
 ## [1.2.3](https://github.com/nayoon030303/test-workflow/compare/v1.2.2...v1.2.3) (2022-08-30)
 
 
